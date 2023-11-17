@@ -1,0 +1,3 @@
+$.ajaxStop((function() {
+	dasdasd<sdasd;
+});
